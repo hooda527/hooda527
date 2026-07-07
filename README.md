@@ -12,6 +12,7 @@
 
 # 🚀 About Me
 
+Provision Google Cloud Infrastructure using Terraform with Infrastructure as Code (IaC) best practices. Built as part of my AI & Data Science cloud learning journey.
 🎓 B.Tech Student
 
 ☁️ Passionate about Cloud Computing
