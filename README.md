@@ -123,9 +123,12 @@ https://github.com/hooda527/Terraform-GCP
 
 # 📈 Contribution Graph
 
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hooda527&theme=tokyo-night"/>
+<h2>📈 My GitHub Contributions</h2>
+
+<img src="https://ghchart.rshah.org/hooda527" alt="GitHub Contributions" width="100%"/>
 
 </div>
 
