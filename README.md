@@ -172,10 +172,7 @@ https://github.com/hooda527/Terraform-GCP
 <a href="https://www.linkedin.com/in/ehshanul-hooda-1a2835386/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
-## 📈 My GitHub Contributions
-
-<img src="https://ghchart.rshah.org/hooda527" alt="GitHub Contributions" width="100%"/>
+ 
 
 </div>
 
